@@ -5,6 +5,6 @@
   <body>
     <h1>Meie projekti pealeht</h1>
     <p>See leht arvestab ka muudatustega</p>
-    <img src="https://shorturl.at/eBFN2"
+    <img src="https://https://www.cleverfiles.com/howto/it/what-is-jpg.html"
   </body>
 </html>
